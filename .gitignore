@@ -1,3 +1,7 @@
+# WORDPRESS
+uploads
+uploads/*
+
 # Logs
 logs
 *.log
